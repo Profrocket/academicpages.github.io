@@ -22,13 +22,13 @@ repository               : "Profrocket/Profrocket.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "John Mackenzie"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Strathclyde"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.a.mackenzie@strath.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
